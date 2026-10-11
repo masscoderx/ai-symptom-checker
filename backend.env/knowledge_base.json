@@ -1,0 +1,122 @@
+[
+  {
+    "condition": "Common Cold",
+    "symptoms": ["runny nose", "sneezing", "sore throat", "mild cough", "congestion", "low fever"],
+    "urgency": "LOW",
+    "action": "Rest, hydrate, use OTC cold medicine"
+  },
+  {
+    "condition": "Influenza (Flu)",
+    "symptoms": ["high fever", "body aches", "fatigue", "headache", "chills", "cough", "sore throat"],
+    "urgency": "MODERATE",
+    "action": "Rest, fluids, consider antiviral medication if caught early"
+  },
+  {
+    "condition": "COVID-19",
+    "symptoms": ["fever", "dry cough", "shortness of breath", "loss of taste", "loss of smell", "fatigue", "body aches"],
+    "urgency": "MODERATE",
+    "action": "Isolate, take a COVID test, consult a doctor if breathing worsens"
+  },
+  {
+    "condition": "Tension Headache",
+    "symptoms": ["headache", "pressure around head", "neck stiffness", "stress"],
+    "urgency": "LOW",
+    "action": "Rest, hydration, OTC pain reliever like ibuprofen"
+  },
+  {
+    "condition": "Migraine",
+    "symptoms": ["severe headache", "nausea", "vomiting", "light sensitivity", "aura", "throbbing pain"],
+    "urgency": "MODERATE",
+    "action": "Rest in a dark quiet room, migraine medication, consult neurologist if recurring"
+  },
+  {
+    "condition": "Gastroenteritis (Stomach Bug)",
+    "symptoms": ["nausea", "vomiting", "diarrhea", "stomach cramps", "stomach ache", "mild fever"],
+    "urgency": "LOW",
+    "action": "Stay hydrated, BRAT diet (bananas, rice, applesauce, toast), rest"
+  },
+  {
+    "condition": "Urinary Tract Infection (UTI)",
+    "symptoms": ["burning urination", "frequent urination", "pelvic pain", "cloudy urine", "lower back pain"],
+    "urgency": "MODERATE",
+    "action": "See a doctor for antibiotics, drink plenty of water"
+  },
+  {
+    "condition": "Appendicitis",
+    "symptoms": ["severe abdominal pain", "pain around navel", "pain lower right abdomen", "nausea", "vomiting", "fever"],
+    "urgency": "EMERGENCY",
+    "action": "Go to the ER immediately — this may require surgery"
+  },
+  {
+    "condition": "Heart Attack",
+    "symptoms": ["chest pain", "chest pressure", "left arm pain", "jaw pain", "sweating", "shortness of breath", "nausea"],
+    "urgency": "EMERGENCY",
+    "action": "Call 911 immediately — do not drive yourself to the hospital"
+  },
+  {
+    "condition": "Stroke",
+    "symptoms": ["sudden numbness", "face drooping", "arm weakness", "speech difficulty", "sudden confusion", "severe headache", "vision loss"],
+    "urgency": "EMERGENCY",
+    "action": "Call 911 immediately — use FAST (Face, Arms, Speech, Time)"
+  },
+  {
+    "condition": "Asthma Attack",
+    "symptoms": ["wheezing", "shortness of breath", "chest tightness", "coughing at night"],
+    "urgency": "HIGH",
+    "action": "Use rescue inhaler, sit upright, seek emergency care if no improvement"
+  },
+  {
+    "condition": "Allergic Reaction",
+    "symptoms": ["rash", "hives", "itching", "swelling", "sneezing", "watery eyes"],
+    "urgency": "MODERATE",
+    "action": "Antihistamines for mild reactions; epinephrine and ER for severe reactions"
+  },
+  {
+    "condition": "Anaphylaxis",
+    "symptoms": ["throat swelling", "difficulty breathing", "rapid heartbeat", "severe rash", "dizziness", "loss of consciousness"],
+    "urgency": "EMERGENCY",
+    "action": "Use EpiPen immediately and call 911"
+  },
+  {
+    "condition": "Dehydration",
+    "symptoms": ["dizziness", "dark urine", "dry mouth", "fatigue", "confusion", "headache"],
+    "urgency": "MODERATE",
+    "action": "Drink water and electrolytes; seek IV fluids if severe"
+  },
+  {
+    "condition": "High Blood Pressure (Hypertension Crisis)",
+    "symptoms": ["severe headache", "blurred vision", "chest pain", "nosebleed", "shortness of breath"],
+    "urgency": "EMERGENCY",
+    "action": "Go to the ER immediately"
+  },
+  {
+    "condition": "Pneumonia",
+    "symptoms": ["persistent cough", "fever", "chills", "chest pain when breathing", "shortness of breath", "fatigue"],
+    "urgency": "HIGH",
+    "action": "See a doctor promptly for antibiotics or antivirals"
+  },
+  {
+    "condition": "Acid Reflux / GERD",
+    "symptoms": ["heartburn", "chest burning", "regurgitation", "sour taste", "difficulty swallowing"],
+    "urgency": "LOW",
+    "action": "Antacids, avoid trigger foods, elevate head while sleeping"
+  },
+  {
+    "condition": "Diabetes (Low Blood Sugar / Hypoglycemia)",
+    "symptoms": ["shakiness", "sweating", "confusion", "rapid heartbeat", "pale skin", "hunger", "dizziness"],
+    "urgency": "HIGH",
+    "action": "Consume fast-acting sugar immediately; seek medical help if unconscious"
+  },
+  {
+    "condition": "Conjunctivitis (Pink Eye)",
+    "symptoms": ["red eyes", "eye discharge", "itchy eyes", "eye crusting"],
+    "urgency": "LOW",
+    "action": "See a doctor for eye drops; avoid touching eyes and spreading to others"
+  },
+  {
+    "condition": "Anxiety / Panic Attack",
+    "symptoms": ["racing heart", "chest tightness", "shortness of breath", "dizziness", "trembling", "fear", "sweating"],
+    "urgency": "MODERATE",
+    "action": "Practice slow breathing; consult a doctor or therapist for recurring attacks"
+  }
+]
